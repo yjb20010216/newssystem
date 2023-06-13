@@ -11,6 +11,7 @@ In the project directory, you can run:
 ### `npm i -g json-server`
 
 ### `json-serve --watch .\db.json --port 5000`
+找到db.json文件，通过上面命令行json-server 启动
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
